@@ -6,4 +6,7 @@ background-color: lightgray;
 
 h1 {
   color: red;
+  background-color: rgb(0,0,0);
+  max-width: 80%l
+  margin: auto;
 }
