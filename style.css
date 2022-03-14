@@ -1,6 +1,7 @@
 .container {
 max-width: 90%;
 margin: auto;
+background-color: lightgray;
 }
 
 h1 {
